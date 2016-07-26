@@ -1,0 +1,30 @@
+2.ICT in depth
+3.e-governance in depth
+
+NRCFOSS section
+1. money funded by govrnment to NRCFOSS 25 crores including both phases
+2. Money saved for the goevnment 131 crores
+3. More than 100,000 students got introduced to FOSS {how} by introducing FOSS as elective paper in engg
+
+KErala ICT
+
+1. Add more information about the initiative (ass contents)
+
+
+
+Important {Flow of talk}
+
+Initiatives 
+     1. NIEMECET 
+     2. Kerala govt
+     3. NRCFOSS
+     4. open source center
+     5. Assam government
+
+
+Inner section content will flow like :- 
+    information
+    objective
+    achievement
+
+

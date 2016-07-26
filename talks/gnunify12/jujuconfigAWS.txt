@@ -1,0 +1,12 @@
+environments:
+  sample:
+    type: ec2
+    control-bucket: juju-0b3e21baebdf48d592c4f2c02d5bd75f
+    admin-secret: 1382df0a5df1443b9342d5bc399e4e94
+    access-key: Aws one
+    secret-key: Aws one
+    juju-origin: ppa
+    region: eu-west-1
+    default-instance-type: t1.micro
+    default-series: oneiric
+~                            

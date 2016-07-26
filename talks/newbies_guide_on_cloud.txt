@@ -1,0 +1,27 @@
+Newbies guide to joining Cloud Ecosystem 
+                          Before you jump on cloud
+                          Points to ponder
+                                     1. building blocks of cloud
+                                          1.1 OS
+                                          1.2 Virtualization
+                                          1.3 Networking
+                                     2. Knowing your IaaS
+                                          2.1 Programming language its written.
+                                          2.2 Basic idea about each components.
+                                     3. What do you want finally?
+                                          3.1 Hypervisior (Kvm/Xen)
+                                          3.2 Operating system (Ubuntu/Fedora/Redhat)
+                                          3.3 Netwoking
+                                     4. IaaS support with your Distribution.
+                                          4.1 Not all the service works smoothly on all Operating system.
+                                     5. Getting Help
+                                          5.1 Go through the official documentation to know about the IaaS.
+                                          5.2 Go through the deployment guide for the Distribution you have selected.
+                                          5.3 Check the fourm, most cases many othes would have stuck where you are currently.
+                                          5.4 Visit IRC
+                                          5.5 Go to the mailing list
+                                     6. Contribute 
+                                          6.1 Report bugs, whats wrong/missing.
+                                          6.2 Write a blog explaining your install doc.
+                                          6.3 Help others at IRC/Mailing list.
+                                     

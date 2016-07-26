@@ -1,0 +1,61 @@
+What us Juju?
+juju aims to be a service deployment and orchestration tool.
+It enables the same kind of collaboration and ease of use which is seen around package management to happen on a higher level, around services. 
+
+
+With juju, different authors are able to create services independently, and make those services communicate through a simple configuration protocol. 
+
+Then, users can take the product of both authors and very comfortably deploy those services in an environment, in way resembling how people are able to install a network of packages with a single command via APT.
+
+About my talk:- 
+
+Cloud ninjas got charms with Juju
+
+
+
+Before i begin!!
+
+        Bad news!!
+              I will not be showing the demo!!
+        Good news!!
+              We will have saperate BOF for that
+
+
+1. what is juju
+
+2. Compontents of Juju
+        --- juju core
+        --- charms
+
+3. How is juju different?
+              --- Installing wordpress
+                         Traditional way :- 
+                                           1. Install LAMP stack
+                                           2. Manually configure the database and test if all works.
+
+                         Configuration management system :-
+                                            1. Install a Tool
+                                            2. Test if its installed propely.
+                                            3. Learn a new language
+                                            4. Test again if the configuration promise/recipes are correct and works.
+ 
+                         Juju way :- 
+                                            1. Download wordpress and its deps charms from charms repository. 
+                                            2. Deploy it.
+4. Juju workflow
+5. Installing Juju
+            --- LXC
+            --- AWS
+                                            
+                                             
+
+6. charms
+      --- what is it?
+      --- anatomy of charms
+      --- writing custom charm
+     
+7. Demo (during BOF)
+8. Q&A
+9. Roadmap ahead.
+
+

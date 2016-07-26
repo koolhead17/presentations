@@ -1,0 +1,9 @@
+environments:
+  sample:
+    type: local
+    control-bucket: juju-368a6539356443c6b46cb0d08599b0ad
+    admin-secret: 8449157818c541388308aae65676f549
+    default-series: oneiric
+    default-series: oneiric
+    juju-origin: distro
+    data-dir: /home/atul/juju
